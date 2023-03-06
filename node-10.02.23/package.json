@@ -1,0 +1,12 @@
+{
+  "name": "node100223",
+  "version": "1.0.0",
+  "description": "node 10.02.23",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Vdovichenko Vladimir <v.a.v.2000@mail.ru>",
+  "license": "ISC"
+}
